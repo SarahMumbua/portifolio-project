@@ -47,9 +47,23 @@
     <h4>Social Media</h4>
     Catch me on Twitter - <a href="#">@SarahMumbua</a>
   </div>
+<script>
+// Get the image element
+const image = document.querySelector('img');
 
+// Add event listener for mouseover
+image.addEventListener('mouseover', function() {
+  // Change the width of the image to 200px on hover
+  image.style.width = '500px';
+});
 
-  
+// Add event listener for mouseout
+image.addEventListener('mouseout', function() {
+  // Change the width of the image back to its original size on mouseout
+  image.style.width = '';
+});
+
+</script>  
 
 
 </body>
