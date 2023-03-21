@@ -1,16 +1,15 @@
-# Kabugi-s-portfolio
-#### This my test portfolio, Friday,23rd November,2018
-#### By **{Ian Kabugi}**
+# Sarah Mumbua Mutuku
+#### This my sample portfolio to show case my case
+#### By **{Sarah Mumbua}**
 ## Description
-This is a test portfolio describing me as a person. It's main objective is to show my understanding of my first week's learning in moringa school,It entails my projects ,my contacts,bio and background.}
+This is a  sample portifolio for showing my work. This portifolio is in progress and it will be improved continually.
+## Live github page
+* https://sarahmumbua.github.io/portifolio-project/
 ## Setup/Installation Requirements
-* requires a web browser
-* may require the user to have a github account to access it
+* git clone https://github.com/SarahMumbua/portifolio-project
+* navigate to index.html and open it on the prefered web browswer
 ## Known Bugs
-Nil at the moment.
+Ther is no known bugs
 ## Technologies Used
-I have used HTML and CSS to code this website. This was typed using Atom text-editor
-## Support and contact details
-Incase of any problems reach me through my email:iank299@gmail.com
-### License
-Copyright (c) {2018} **{Ian Kabugi}**
+I have used HTML ,CSS and Javascript to code this website. This was typed using Atom text-editor
+Copyright (c) {2018} **{Sarah Mumbua}**
